@@ -1,9 +1,5 @@
 # Hello! I'm Arwa <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-An ambitious **Computer Science Student at Ain Shams University** with a unique blend of technical software engineering and user-centered design. I enjoy bridging the gap between clean code and intuitive UI/UX design to build seamless digital experiences.
-
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
 ---
 
 ### 🚀 About Me
