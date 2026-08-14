@@ -2,10 +2,12 @@
 
 An ambitious **Computer Science Student at Ain Shams University** with a unique blend of technical software engineering and user-centered design. I enjoy bridging the gap between clean code and intuitive UI/UX design to build seamless digital experiences.
 
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** B.Sc. in Computer Science @ Ain Shams University (Expected Grad: 2027)
+- 🎓 **Education:** B.Sc. in Computer Science @ Ain Shams University
 - 💻 **Focus:** Frontend Development (React) & UI/UX Design
 - 🧠 **Learning & Exploring:** Agentic AI, NLP, and Deep Learning Architectures
 - 🌱 **Currently Training:** 
@@ -15,7 +17,7 @@ An ambitious **Computer Science Student at Ain Shams University** with a unique 
 
 ---
 
-### 🛠️ Tech & Tools:
+### 🛠️ Languages and Tools:
 
 <p align="left">
   <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
