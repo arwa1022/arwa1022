@@ -36,15 +36,15 @@ An ambitious **Computer Science Student at Ain Shams University** with a unique 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:arwaahmed1022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-arwaahmed1022%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/arwa-ahmed-mohamed/)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arwa%20Ahmed-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="mailto:arwaahmed1022@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px" alt="Gmail" />
   </a>
-  &nbsp;
-  <a href="https://github.com/arwaahmed1022" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-arwaahmed1022-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/arwa7205" target="_blank">
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="35px" alt="Discord" />
   </a>
 </p>
