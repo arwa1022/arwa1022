@@ -36,13 +36,15 @@ An ambitious **Computer Science Student at Ain Shams University** with a unique 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:arwaahmed1022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:arwaahmed1022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-arwaahmed1022%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arwa%20Ahmed-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/arwaahmed1022" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-arwaahmed1022-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
