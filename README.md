@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi, I'm Arwa 👋" src="./assets/gh-readme-header.png" /></a></p>
+# Hello! I'm Arwa <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 An ambitious **Computer Science Student at Ain Shams University** with a unique blend of technical software engineering and user-centered design. I enjoy bridging the gap between clean code and intuitive UI/UX design to build seamless digital experiences.
 
