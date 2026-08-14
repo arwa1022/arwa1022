@@ -1,4 +1,4 @@
-# Hi there, I'm Arwa 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi, I'm Arwa 👋" src="./assets/gh-readme-header.png" /></a></p>
 
 An ambitious **Computer Science Student at Ain Shams University** with a unique blend of technical software engineering and user-centered design. I enjoy bridging the gap between clean code and intuitive UI/UX design to build seamless digital experiences.
 
