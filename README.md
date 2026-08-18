@@ -1,7 +1,11 @@
 # Hello! I'm Arwa <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 ## 💫 About Me:
-- 🔭 **I’m currently working on:** Building responsive web applications with React and designing intuitive UI/UX experiences in Figma.<br>- 🤝 **I’m looking to collaborate on:** Open-source Frontend (React) projects, UI/UX design systems, and Agentic AI applications.<br>- 💬 **Ask me about:** React, Figma, Data Structures & Algorithms, NLP, and RAG architectures.<br>- 🎯 **I’m currently learning:** Agentic AI systems with LangGraph, LlamaIndex, and advanced NLP techniques.<br>- ⚡ **Fun fact:** I love bridging the gap between logic and art — translating complex backend/AI workflows into clean, beautiful user interfaces!
+- 🔭 **I’m currently working on:** Building responsive web applications with React and designing intuitive UI/UX experiences in Figma.
+- 🤝 **I’m looking to collaborate on:** Open-source Frontend (React) projects, UI/UX design systems, and Agentic AI applications.
+- 💬 **Ask me about:** React, Figma, Data Structures & Algorithms, NLP, and RAG architectures.
+- 🎯 **I’m currently learning:** Agentic AI systems with LangGraph, LlamaIndex, and advanced NLP techniques.
+- ⚡ **Fun fact:** I love bridging the gap between logic and art — translating complex backend/AI workflows into clean, beautiful user interfaces!
 
 
 ## 🌐 Socials:
