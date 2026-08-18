@@ -1,48 +1,18 @@
 # Hello! I'm Arwa <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
----
+## 💫 About Me:
+<br><br>- 🔭 **I’m currently working on:** Building responsive web applications with React and designing intuitive UI/UX experiences in Figma.<br>- 🤝 **I’m looking to collaborate on:** Open-source Frontend (React) projects, UI/UX design systems, and Agentic AI applications.<br>- 💬 **Ask me about:** React, Figma, Data Structures & Algorithms, NLP, and RAG architectures.<br>- 🎯 **I’m currently learning:** Agentic AI systems with LangGraph, LlamaIndex, and advanced NLP techniques.<br>- ⚡ **Fun fact:** I love bridging the gap between logic and art — translating complex backend/AI workflows into clean, beautiful user interfaces!
 
-### 🚀 About Me
-- 🎓 **Education:** B.Sc. in Computer Science @ Ain Shams University
-- 💻 **Focus:** Frontend Development (React) & UI/UX Design
-- 🧠 **Learning & Exploring:** Agentic AI, NLP, and Deep Learning Architectures
-- 🌱 **Currently Training:** 
-  - **Kayfa Academy:** Agentic AI & Production Systems (LangGraph, LlamaIndex, Pydantic AI)
-  - **NTI:** Natural Language Processing (NLP & Generative AI)
-- ⚡ **Soft Skills:** Rapid Learner, Problem Solving, Team Collaboration, Task Prioritization
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/☆Arwa*) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arwa-ahmed-mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arwaahmed1022@gmail.com) 
 
-### 🛠️ Languages and Tools:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arwa1022&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arwa1022&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arwa1022&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-  <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/arwa-ahmed-mohamed/)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arwaahmed1022@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/arwa7205" target="_blank">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="35px" alt="Discord" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
